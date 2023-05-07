@@ -1,4 +1,5 @@
 # Document Summarization:
+Article link: https://medium.com/@inuwamobarak/document-summarization-longest-wikipedia-article-history-of-poland-to-10-sentences-b05412dfb114
 
 Document Summarization has become a vital task for various individuals and businesses that require a way of cutting down complexities involved with bulky documents. Summarization reduces a piece of document to a rendition less lengthy. This reduces the time complexity and effort initially required to consume that text. This is done such that the original message in the document is retained.
 
